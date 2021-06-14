@@ -1,0 +1,22 @@
+// variables
+$badass: #bada55;
+
+// sass
+body{
+    margin: 0;
+    background: $badass;
+
+    .wrapper{
+        width: 960px;
+        margin: 0 auto;
+        padding-top: 50px;
+
+        p{
+            margin: 0px;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 21px;
+            line-height: 2;
+            text-align: center;
+        }
+    }
+}

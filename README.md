@@ -1,6 +1,7 @@
 # PHP / NPM 
 
-- Compile assets : `npm run build`
+- Compile js : `npm run build`
+- Compile css : ` npm run build-css`
 
 # Dev Tools
 
@@ -9,3 +10,6 @@
 - **NPM** *webpack*
 - **NPM** *jquery* - https://www.npmjs.com/package/jquery - `npm i jquery`
 - **NPM** *validator* - https://www.npmjs.com/package/validator - `npm i validator`
+- **NPM** *node-sass* - https://www.npmjs.com/package/node-sass - `npm i node-sass` : Also check `package.json` for compilation command
+- **PHP** *YAML loader* - https://packagist.org/packages/mustangostang/spyc - `composer require mustangostang/spyc`
+- **NPM** *js-yaml-loader* - https://www.npmjs.com/package/js-yaml-loader - `npm i js-yaml-loader`

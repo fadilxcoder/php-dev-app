@@ -1,5 +1,7 @@
 # PHP / NPM 
 
+*Simple PHP App / No DB / Composer / NPM*
+
 - Compile js : `npm run build`
 - Compile css : ` npm run build-css`
 
